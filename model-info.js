@@ -1,3 +1,3 @@
 var models = [
-    "isi.glb",
+    "scene.glb",
 ]
