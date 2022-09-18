@@ -5,4 +5,5 @@ var models = [
     "mesh4.glb",
     "room.glb",
     "kabin.glb",
+    "kabin.glb",
 ]
