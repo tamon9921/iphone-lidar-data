@@ -75,7 +75,7 @@ function createModel(modelNr){
         function ( gltf ){
             model = gltf.scene;
             model.name = "model"+String(modelNr);
-            model.position.set(0,1,-2);
+            model.position.set(0,1,2);
             model.rotation.set(0,0,0);
             model.scale.set(1.0, 1.0, 1.0);
 
