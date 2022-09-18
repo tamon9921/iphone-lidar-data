@@ -4,4 +4,5 @@ var models = [
     "20220505.glb",
     "mesh4.glb",
     "room.glb",
+    ".glb",
 ]
